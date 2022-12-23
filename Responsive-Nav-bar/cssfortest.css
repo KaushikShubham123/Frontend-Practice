@@ -3,6 +3,7 @@ nav {
     padding: 10px;
     font-size: larger;
     background-color: black;
+    gap: 10px;
 }
 
 a {
